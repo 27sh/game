@@ -20,13 +20,6 @@ int main(void)
 	return 0;
 }
 
-void display_manual(void)
-{
-	printf("키보드의 숫자를 누르면 \n");
-	printf("해당 건반에 음이 표시되고,\n");
-	printf("해당 음이 스피커로 출력됩니다.\n");
-	printf("프로그램 종료는 Esc 키 입니다.\n");
-}
 void practice_piano(void)
 {
 	int index[]={0, 2, 4, 5, 7, 9, 11, 12};
