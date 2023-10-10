@@ -221,7 +221,7 @@ int main() {
                 volume += 5;
 
             MIDISendShortMsg(hMidiDevice, 0xB0, 7, volume);
-            gotoxy(58, 5);
+            gotoxy(56, 5);
             printf("VOLUME : %03d", volume);
             Sleep(30);
         }
@@ -230,7 +230,7 @@ int main() {
                 volume -= 5;
 
             MIDISendShortMsg(hMidiDevice, 0xB0, 7, volume);
-            gotoxy(58, 5);
+            gotoxy(56, 5);
             printf("VOLUME : %03d", volume);
             Sleep(30);
         }
