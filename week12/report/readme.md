@@ -6,7 +6,7 @@
 
 바닥은 C# 스크립트를 적용하여 좌우 방향키로 기울기를 조절할 수 있습니다.
 
-![이미지](./img/bouncingball)
+![이미지](./img/bouncingball.png)
 
 # Rolling Ball
 
@@ -14,4 +14,4 @@
 
 기울어진 바닥을 따라 공이 굴러갑니다.
 
-![이미지](./img/rollingball)
+![이미지](./img/rollingball.png)
