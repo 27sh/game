@@ -28,7 +28,7 @@
 
 : 스테이지 선택 화면
 
-![이미지](./selectstage/og.png)
+![이미지](./img/selectstage.png)
 
 : stage1
 
@@ -40,7 +40,7 @@
 
 : stage3
 
-![이미지](./img/stage.png)
+![이미지](./img/stage3.png)
 
 : 클리어 화면
 
