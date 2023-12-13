@@ -13,3 +13,35 @@
 프로그램 응용 파일
 
 기존의 게임 형식에서 메인 화면, 음악, 옵션, 게임 종료, 스테이지 형식, 클리어 화면, 아바타, 적의 움직임, 뒤로가기 기능 구현
+
+: 메인 화면
+
+![이미지](./img/title.png)
+
+: 옵션 팝업
+
+![이미지](./img/soundbar.png)
+
+: 종료 팝업
+
+![이미지](./img/quit.png)
+
+: 스테이지 선택 화면
+
+![이미지](./selectstage/og.png)
+
+: stage1
+
+![이미지](./img/stage1.png)
+
+: stage2
+
+![이미지](./img/stage2.png)
+
+: stage3
+
+![이미지](./img/stage.png)
+
+: 클리어 화면
+
+![이미지](./img/Clear.png)
